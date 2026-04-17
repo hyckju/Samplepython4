@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime demo artifacts (keep directory, ignore contents)
+/data/*
+!/data/.gitkeep
