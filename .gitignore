@@ -3,6 +3,11 @@
 __pycache__/
 *.pyc
 
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
 # Runtime demo artifacts (keep directory, ignore contents)
 /data/*
 !/data/.gitkeep
